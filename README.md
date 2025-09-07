@@ -1,1 +1,1 @@
-# L-gica-super-trunfo-em-C
+Atividade utilizando ferramentas básicas da linguagem C 
